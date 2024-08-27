@@ -1,4 +1,4 @@
-# Hr-employeeDashboard
+# Hr employee Dashboard
 ## Hr employee Dashboard  that shows the gender (male/female)distribution and Race distribution and employee state map
 
 ### The dashboard is designed with a clean, user-friendly interface that provides a comprehensive overview of employee demographics and distribution across various metrics.
